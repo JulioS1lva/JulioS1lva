@@ -21,7 +21,7 @@
 
 <div align="left">
    <div align="left">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/393149b6-4794-4e29-87a9-9901b0258e90/d8tfgv8-f91cf4f4-55e9-4bcc-92f4-ad9f8e0c9fca.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM5MzE0OWI2LTQ3OTQtNGUyOS04N2E5LTk5MDFiMDI1OGU5MFwvZDh0Zmd2OC1mOTFjZjRmNC01NWU5LTRiY2MtOTJmNC1hZDlmOGUwYzlmY2EuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._bhOma6QfSUw5VSfjBdYviZyUQdK8hRFvjKzTjkLGCs"  style="width: 300px;" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/77ea4c24-1c84-4d02-b199-a9cc97c320cf/dfagl1m-aa4dcb7e-b390-4979-8026-0a3fd5ec12a0.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc3ZWE0YzI0LTFjODQtNGQwMi1iMTk5LWE5Y2M5N2MzMjBjZlwvZGZhZ2wxbS1hYTRkY2I3ZS1iMzkwLTQ5NzktODAyNi0wYTNmZDVlYzEyYTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tbF77wXupwfI4VvCcf8lk2AQtmWRDrV27TVhZacx77M"  style="width: 300px;" />
 </div>
 
 <!--
