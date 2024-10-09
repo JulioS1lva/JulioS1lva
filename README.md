@@ -1,5 +1,5 @@
 <div style="width: 100%; overflow: hidden;">
-    <img src="https://media1.tenor.com/m/Icxo0YPaJjwAAAAC/ggfd.gif" style="width: 1080px; height: 300px;" />
+    <img src="https://media1.tenor.com/m/Icxo0YPaJjwAAAAC/ggfd.gif" style="width: 1000px; height: 300px;" />
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: center;">
