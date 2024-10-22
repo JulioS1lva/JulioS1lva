@@ -21,7 +21,7 @@
 
 <div align="left">
    <div align="left">
-  <img src="https://media.tenor.com/0cbkNSQMgOIAAAAi/spin-bored.gif"  style="width: 300px; " />
+  <img src="https://media.tenor.com/WhiAlABG7WMAAAAi/sans-undertale.gif"  style="width: 150px;" />
 </div>
 
 <!--
