@@ -1,5 +1,5 @@
 <div style="width: 100%; overflow: hidden;">
-    <img src="https://media1.tenor.com/m/Icxo0YPaJjwAAAAC/ggfd.gif" style="width: 1000px; height: 300px;" />
+    <img src="https://media1.tenor.com/m/d4mnKjmp-l8AAAAC/itoshi-rin-blue-lock.gif" style="width: 900px; height: 400px;" />
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: center;">
@@ -21,7 +21,7 @@
 
 <div align="left">
    <div align="left">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/77ea4c24-1c84-4d02-b199-a9cc97c320cf/dfagl1m-aa4dcb7e-b390-4979-8026-0a3fd5ec12a0.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc3ZWE0YzI0LTFjODQtNGQwMi1iMTk5LWE5Y2M5N2MzMjBjZlwvZGZhZ2wxbS1hYTRkY2I3ZS1iMzkwLTQ5NzktODAyNi0wYTNmZDVlYzEyYTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tbF77wXupwfI4VvCcf8lk2AQtmWRDrV27TVhZacx77M"  style="width: 300px;" />
+  <img src="https://media.tenor.com/0cbkNSQMgOIAAAAi/spin-bored.gif"  style="width: 300px;" />
 </div>
 
 <!--
