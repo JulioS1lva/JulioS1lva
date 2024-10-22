@@ -1,5 +1,5 @@
 <div style="width: 100%; overflow: hidden;">
-    <img src="https://media1.tenor.com/m/d4mnKjmp-l8AAAAC/itoshi-rin-blue-lock.gif" style="width: 900px; height: 400px;" />
+    <img src="https://media1.tenor.com/m/d4mnKjmp-l8AAAAC/itoshi-rin-blue-lock.gif" style="width: 900px; height: 300px;" />
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: center;">
@@ -21,7 +21,7 @@
 
 <div align="left">
    <div align="left">
-  <img src="https://media.tenor.com/0cbkNSQMgOIAAAAi/spin-bored.gif"  style="width: 300px;" />
+  <img src="https://media.tenor.com/0cbkNSQMgOIAAAAi/spin-bored.gif"  style="width: 300px; " />
 </div>
 
 <!--
