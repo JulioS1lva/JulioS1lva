@@ -1,5 +1,5 @@
 <div style="width: 100%; overflow: hidden;">
-    <img src="https://steamuserimages-a.akamaihd.net/ugc/779532369185856700/22BE27A27796B275170C9D39C5E45F59FB5F9F72/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" style="width: 1000px; height: 405px;" />
+    <img src="https://steamuserimages-a.akamaihd.net/ugc/779532369185856700/22BE27A27796B275170C9D39C5E45F59FB5F9F72/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" style="width: 1000px; height: 355px;" />
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: center;">
