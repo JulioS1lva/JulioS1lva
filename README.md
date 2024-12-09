@@ -1,5 +1,5 @@
 <div style="width: 100%; overflow: hidden;">
-    <img src="https://i.pinimg.com/originals/17/84/b9/1784b9a1ea1b0dce10d3191fa2a4e520.gif" style="width: 800px; height: 305px;" />
+    <img src="https://steamuserimages-a.akamaihd.net/ugc/779532369185856700/22BE27A27796B275170C9D39C5E45F59FB5F9F72/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" style="width: 1000px; height: 405px;" />
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: center;">
@@ -21,7 +21,7 @@
 
 <div align="left">
    <div align="left">
-  <img src="https://media.tenor.com/WhiAlABG7WMAAAAi/sans-undertale.gif"  style="width: 150px;" />
+  <img src="https://cdn2.steamgriddb.com/icon/1739ce2df38ca14a27b2d878267439c1.png"  style="width: 150px;" />
 </div>
 
 <!--
