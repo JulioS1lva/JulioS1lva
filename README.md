@@ -1,5 +1,5 @@
 <div style="width: 100%; overflow: hidden;">
-    <img src="https://media1.tenor.com/m/5E_ICSuqKpEAAAAC/itoshi-rin-blue-lock.gif" style="width: 800px; height: 305px;" />
+    <img src="https://i.pinimg.com/originals/17/84/b9/1784b9a1ea1b0dce10d3191fa2a4e520.gif" style="width: 800px; height: 305px;" />
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: center;">
