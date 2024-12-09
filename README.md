@@ -21,7 +21,7 @@
 
 <div align="left">
    <div align="left">
-  <img src="https://cdn2.steamgriddb.com/icon/1739ce2df38ca14a27b2d878267439c1.png"  style="width: 150px;" />
+  <img src="https://logodix.com/logo/1118730.png"  style="width: 350px;" />
 </div>
 
 <!--
