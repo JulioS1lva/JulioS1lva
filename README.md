@@ -1,5 +1,6 @@
+<h1 align="center">𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𖣂</h1>
 <div style="width: 100%; overflow: hidden;">
-    <img src="https://steamuserimages-a.akamaihd.net/ugc/779532369185856700/22BE27A27796B275170C9D39C5E45F59FB5F9F72/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" style="width: 1000px; height: 355px;" />
+    <img src="https://i.pinimg.com/originals/2b/c1/4e/2bc14ee1d294744129a92c8dd3c4b075.gif" style="width: 1000px; height: 355px;" />
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: center;">
@@ -21,7 +22,7 @@
 
 <div align="left">
    <div align="left">
-  <img src="https://logodix.com/logo/1118730.png"  style="width: 350px;" />
+  <img src="https://www.freelogovectors.net/wp-content/uploads/2023/09/bring-me-the_horizon_logo-freelogovectors.net_-640x474.png"  style="width: 250px;" />
 </div>
 
 <!--
