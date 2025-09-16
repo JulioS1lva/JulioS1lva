@@ -1,7 +1,7 @@
 
 <div style="width: 100%; overflow: hidden;">
     <h1 align="center">𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𖣂</h1>
-    <img src="https://i.pinimg.com/originals/2b/c1/4e/2bc14ee1d294744129a92c8dd3c4b075.gif" style="width: 1000px; height: 355px;" />
+    <img src="https://media1.tenor.com/m/rarynTvGJaUAAAAd/cicada3301-glitch.gif" style="width: 1000px; height: 355px;" />
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: center;">
