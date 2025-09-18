@@ -5,10 +5,7 @@
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulioS1lva&icons=true&theme=transparent&hide_border=true" alt="JulioS1lva GitHub stats" style="max-width: 50%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioS1lva&layout=compact&theme=transparent&hide_border=true&langs_count=10&custom_title=Top%20Languages" alt="Top Languages" style="max-width: 50%;"/>
-</div>
-
+  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" style="display: inline-block; vertical-align: middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" style="display: inline-block; vertical-align: middle;" />
