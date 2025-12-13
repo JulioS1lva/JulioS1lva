@@ -1,8 +1,4 @@
-<div align="center">
-  <h1>𝑾𝒆𝒍𝒄𝒐𝒎𝒆</h1>
-  <img src="https://i.pinimg.com/originals/69/b2/ed/69b2edb9cc3570f23aa830cfcb44c994.gif" width="1000" height="400" />
-  
-  <h2>𝑫𝒆𝒗 𝑬𝒏𝒗𝒊𝒓𝒐𝒏𝒎𝒆𝒏𝒕</h2>
+ <h2>𝑫𝒆𝒗 𝑬𝒏𝒗𝒊𝒓𝒐𝒏𝒎𝒆𝒏𝒕</h2>
   
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 30px; padding: 20px; max-width: 800px; margin: 0 auto;">
     
