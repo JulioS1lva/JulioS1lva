@@ -56,5 +56,10 @@
 
 <div style="position: absolute; top: 10px; left: 10px; right: 10px; bottom: 10px; border: 1px solid rgba(0, 255, 255, 0.2); border-radius: 20px; pointer-events: none;"></div>
 
-<h2 style="color: #00ffff; margin-bottom: 30px; font-size: 1.8em; letter-spacing: 2px; text-transform: uppercase;">
+ 
 
+<h1>𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏𝒔<h1>
+
+![](https://github-readme-stats.vercel.app/api?username=JulioS1lva&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=JulioS1lvay&theme=dark_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioS1lva&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
